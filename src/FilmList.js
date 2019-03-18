@@ -32,10 +32,6 @@ class FilmList extends Component {
                 </div>
                     <Switch>
                         <Route exact path='/FilmList/:id' component={Film} />
-                        {/* <Route exact path='/FilmList/:id' render={props => (
-                            <Film film={props} />
-                        )} /> */}
-
                     </Switch>
             </div>
         );
@@ -44,10 +40,3 @@ class FilmList extends Component {
 };
 
 export default withGhibli(FilmList);
-
-
-// const mappedFilms = this.props.filmsArray.map((film, i) => {
-        //     return(
-        //     <Link to={`/films/${film.title}`}>{film.title}</Link>
-        //     )
-        // })
