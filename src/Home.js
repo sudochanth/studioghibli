@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
+import noFace from '/Users/Sunny/development/StudioGhibli/src/noface.png';
 
 
 const Home = () => {
     return (
         <div id='home'>
-            <img id='noFace' src='https://i.pinimg.com/originals/7e/28/0a/7e280aedf900a29345527059dee8631c.png' alt='noFace'></img>
+            <img id='noFace' src={noFace} alt='noFace'></img>
             <div id='welcome'><h2>Welcome</h2></div>
         </div>
     );
