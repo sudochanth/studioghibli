@@ -19,7 +19,7 @@ const About = () => {
             Rem doloremque magni rerum aliquam voluptatibus nobis molestiae praesentium. Fugiat atque earum voluptatum veritatis vitae veniam similique, ex, magni incidunt officia beatae dolor nihil. Eius maiores odit voluptatibus autem fuga.
             <br/>
             <br/>
-            Dignissimos in distinctio non veritatis dolore quo alias ex, dolores nobis, iste quos sint eum totam minus odio laboriosam numquam nostrum, ducimus molestiae repellat tempora exercitationem impedit voluptatibus voluptates debitis! Perspiciatis.
+            HI PENNY Dignissimos in distinctio non veritatis dolore quo alias ex, dolores nobis, iste quos sint eum totam minus odio laboriosam numquam nostrum, ducimus molestiae repellat tempora exercitationem impedit voluptatibus voluptates debitis! Perspiciatis.
         </div>
     );
 };
