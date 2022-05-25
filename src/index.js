@@ -11,3 +11,5 @@ ReactDOM.render(
         </GhibliProvider>    
     </BrowserRouter>,
     document.getElementById('root'));
+
+    /* Notes */
